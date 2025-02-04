@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Views.styles.css",
+      "PackagePath": "staticwebassets\\Views.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\img\\bpark_logo1.png",
+      "PackagePath": "staticwebassets\\img\\bpark_logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\jsons\\login-config.json",
+      "PackagePath": "staticwebassets\\jsons\\login-config.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.Views.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.Views.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.Views.props",
+      "PackagePath": "build\\Views.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.Views.props",
+      "PackagePath": "buildMultiTargeting\\Views.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.Views.props",
+      "PackagePath": "buildTransitive\\Views.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

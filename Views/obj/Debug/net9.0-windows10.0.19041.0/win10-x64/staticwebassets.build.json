@@ -1,0 +1,2845 @@
+{
+  "Version": 1,
+  "Hash": "EZ/VSHuTMno+i3cVVokqkIP9TxlyteqyIuqMoDvWPyA=",
+  "Source": "Views",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Views\\wwwroot",
+      "Source": "Views",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1uho4oolyy-xcpms38rrm.gz",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=xcpms38rrm}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0zyd8rsa7k",
+      "Integrity": "TIYhq5NVj/8Pp3ESivcBqWdhEnD2kMM8akzXrrSruOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f4obnxyqbf-g4uzohbjsr.gz",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "jsons/login-config#[.{fingerprint=g4uzohbjsr}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\jsons\\login-config.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rys2h2l941",
+      "Integrity": "3XfgYWMoV7ujInvz9drWjayi7A8gSCyofr8SZC3l4ww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\jsons\\login-config.json"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gdd3e1x2gx-3hzxzbzs01.gz",
+      "SourceId": "Views",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "Views#[.{fingerprint=3hzxzbzs01}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Views.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "roifpt81sg",
+      "Integrity": "peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Views.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\jmyq8hv09t-nskgkilzxj.gz",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=nskgkilzxj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6qyi9a0sic",
+      "Integrity": "sm4g441UqBHolnJPOn4Jl+NECg+Rh0umLXUMbQOpTRY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ojc86xwxhu-hf80fhbmas.gz",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/styles#[.{fingerprint=hf80fhbmas}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9nl3qfpeew",
+      "Integrity": "VZaKflBDLAMqEaZg6aHkXPHbJmP+WMOKdPS6pYfQ374=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t1lk7sgud0-8inm30yfxf.gz",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t7ldxdz2iz-6gzpyzhau4.gz",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\v9drnnse8v-3hzxzbzs01.gz",
+      "SourceId": "Views",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "Views#[.{fingerprint=3hzxzbzs01}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Views.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "roifpt81sg",
+      "Integrity": "peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Views.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Views.styles.css",
+      "SourceId": "Views",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "Views#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "3hzxzbzs01",
+      "Integrity": "KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Views.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Views.bundle.scp.css",
+      "SourceId": "Views",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "Views#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "3hzxzbzs01",
+      "Integrity": "KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Views.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\app.css",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nskgkilzxj",
+      "Integrity": "uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\styles.css",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hf80fhbmas",
+      "Integrity": "U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\img\\bpark_logo1.png",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "img/bpark_logo1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ucna49gwxl",
+      "Integrity": "QiMU68c1tAiHWgD1GglIy6ZBuhpqSIBSD0EJ0sePDzg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bpark_logo1.png"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\index.html",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xcpms38rrm",
+      "Integrity": "Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\jsons\\login-config.json",
+      "SourceId": "Views",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "jsons/login-config#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g4uzohbjsr",
+      "Integrity": "QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsons\\login-config.json"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\jmyq8hv09t-nskgkilzxj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000569476082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sm4g441UqBHolnJPOn4Jl+NECg+Rh0umLXUMbQOpTRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\jmyq8hv09t-nskgkilzxj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sm4g441UqBHolnJPOn4Jl+NECg+Rh0umLXUMbQOpTRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sm4g441UqBHolnJPOn4Jl+NECg+Rh0umLXUMbQOpTRY="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.nskgkilzxj.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\jmyq8hv09t-nskgkilzxj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000569476082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sm4g441UqBHolnJPOn4Jl+NECg+Rh0umLXUMbQOpTRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nskgkilzxj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.nskgkilzxj.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nskgkilzxj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uQa4jJHC4EWa830yOLd7O5+ts29jK9Q/2lMxz97/9Y0="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.nskgkilzxj.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\jmyq8hv09t-nskgkilzxj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sm4g441UqBHolnJPOn4Jl+NECg+Rh0umLXUMbQOpTRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nskgkilzxj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sm4g441UqBHolnJPOn4Jl+NECg+Rh0umLXUMbQOpTRY="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t7ldxdz2iz-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t7ldxdz2iz-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t7ldxdz2iz-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t1lk7sgud0-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t1lk7sgud0-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t7ldxdz2iz-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t1lk7sgud0-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\t1lk7sgud0-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ojc86xwxhu-hf80fhbmas.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VZaKflBDLAMqEaZg6aHkXPHbJmP+WMOKdPS6pYfQ374=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:29:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:29:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ojc86xwxhu-hf80fhbmas.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VZaKflBDLAMqEaZg6aHkXPHbJmP+WMOKdPS6pYfQ374=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:29:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VZaKflBDLAMqEaZg6aHkXPHbJmP+WMOKdPS6pYfQ374="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.hf80fhbmas.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ojc86xwxhu-hf80fhbmas.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VZaKflBDLAMqEaZg6aHkXPHbJmP+WMOKdPS6pYfQ374=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:29:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf80fhbmas"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.hf80fhbmas.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:29:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf80fhbmas"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U1LxI0/4SWrY4QWlAWAHEckMuDqN0Diwh3D9bQ+z99E="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.hf80fhbmas.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ojc86xwxhu-hf80fhbmas.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VZaKflBDLAMqEaZg6aHkXPHbJmP+WMOKdPS6pYfQ374=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:29:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hf80fhbmas"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VZaKflBDLAMqEaZg6aHkXPHbJmP+WMOKdPS6pYfQ374="
+        }
+      ]
+    },
+    {
+      "Route": "img/bpark_logo1.png",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\img\\bpark_logo1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14243"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QiMU68c1tAiHWgD1GglIy6ZBuhpqSIBSD0EJ0sePDzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QiMU68c1tAiHWgD1GglIy6ZBuhpqSIBSD0EJ0sePDzg="
+        }
+      ]
+    },
+    {
+      "Route": "img/bpark_logo1.ucna49gwxl.png",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\img\\bpark_logo1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14243"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QiMU68c1tAiHWgD1GglIy6ZBuhpqSIBSD0EJ0sePDzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 16:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ucna49gwxl"
+        },
+        {
+          "Name": "label",
+          "Value": "img/bpark_logo1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QiMU68c1tAiHWgD1GglIy6ZBuhpqSIBSD0EJ0sePDzg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1uho4oolyy-xcpms38rrm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002079002079"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TIYhq5NVj/8Pp3ESivcBqWdhEnD2kMM8akzXrrSruOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 17:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 17:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1uho4oolyy-xcpms38rrm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TIYhq5NVj/8Pp3ESivcBqWdhEnD2kMM8akzXrrSruOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 17:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TIYhq5NVj/8Pp3ESivcBqWdhEnD2kMM8akzXrrSruOs="
+        }
+      ]
+    },
+    {
+      "Route": "index.xcpms38rrm.html",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1uho4oolyy-xcpms38rrm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002079002079"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TIYhq5NVj/8Pp3ESivcBqWdhEnD2kMM8akzXrrSruOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 17:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xcpms38rrm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s="
+        }
+      ]
+    },
+    {
+      "Route": "index.xcpms38rrm.html",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 17:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xcpms38rrm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hw428pReU2PZC/x8/n7Pynk7F8wMGm7Y3WaPkZrEA2s="
+        }
+      ]
+    },
+    {
+      "Route": "index.xcpms38rrm.html.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\1uho4oolyy-xcpms38rrm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TIYhq5NVj/8Pp3ESivcBqWdhEnD2kMM8akzXrrSruOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 17:50:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xcpms38rrm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TIYhq5NVj/8Pp3ESivcBqWdhEnD2kMM8akzXrrSruOs="
+        }
+      ]
+    },
+    {
+      "Route": "jsons/login-config.g4uzohbjsr.json",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f4obnxyqbf-g4uzohbjsr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002551020408"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3XfgYWMoV7ujInvz9drWjayi7A8gSCyofr8SZC3l4ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:49:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4uzohbjsr"
+        },
+        {
+          "Name": "label",
+          "Value": "jsons/login-config.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s="
+        }
+      ]
+    },
+    {
+      "Route": "jsons/login-config.g4uzohbjsr.json",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\jsons\\login-config.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:49:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4uzohbjsr"
+        },
+        {
+          "Name": "label",
+          "Value": "jsons/login-config.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s="
+        }
+      ]
+    },
+    {
+      "Route": "jsons/login-config.g4uzohbjsr.json.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f4obnxyqbf-g4uzohbjsr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3XfgYWMoV7ujInvz9drWjayi7A8gSCyofr8SZC3l4ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:49:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4uzohbjsr"
+        },
+        {
+          "Name": "label",
+          "Value": "jsons/login-config.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3XfgYWMoV7ujInvz9drWjayi7A8gSCyofr8SZC3l4ww="
+        }
+      ]
+    },
+    {
+      "Route": "jsons/login-config.json",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f4obnxyqbf-g4uzohbjsr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002551020408"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3XfgYWMoV7ujInvz9drWjayi7A8gSCyofr8SZC3l4ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:49:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s="
+        }
+      ]
+    },
+    {
+      "Route": "jsons/login-config.json",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\wwwroot\\jsons\\login-config.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:49:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QO8B2+c3Kuhn607TNWAw2T6h7QQI7LYKqL7whf4O51s="
+        }
+      ]
+    },
+    {
+      "Route": "jsons/login-config.json.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f4obnxyqbf-g4uzohbjsr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3XfgYWMoV7ujInvz9drWjayi7A8gSCyofr8SZC3l4ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:49:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3XfgYWMoV7ujInvz9drWjayi7A8gSCyofr8SZC3l4ww="
+        }
+      ]
+    },
+    {
+      "Route": "Views.3hzxzbzs01.bundle.scp.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\v9drnnse8v-3hzxzbzs01.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001592356688"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hzxzbzs01"
+        },
+        {
+          "Name": "label",
+          "Value": "Views.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0="
+        }
+      ]
+    },
+    {
+      "Route": "Views.3hzxzbzs01.bundle.scp.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Views.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hzxzbzs01"
+        },
+        {
+          "Name": "label",
+          "Value": "Views.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0="
+        }
+      ]
+    },
+    {
+      "Route": "Views.3hzxzbzs01.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\v9drnnse8v-3hzxzbzs01.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hzxzbzs01"
+        },
+        {
+          "Name": "label",
+          "Value": "Views.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14="
+        }
+      ]
+    },
+    {
+      "Route": "Views.3hzxzbzs01.styles.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gdd3e1x2gx-3hzxzbzs01.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001592356688"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hzxzbzs01"
+        },
+        {
+          "Name": "label",
+          "Value": "Views.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0="
+        }
+      ]
+    },
+    {
+      "Route": "Views.3hzxzbzs01.styles.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Views.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hzxzbzs01"
+        },
+        {
+          "Name": "label",
+          "Value": "Views.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0="
+        }
+      ]
+    },
+    {
+      "Route": "Views.3hzxzbzs01.styles.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gdd3e1x2gx-3hzxzbzs01.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hzxzbzs01"
+        },
+        {
+          "Name": "label",
+          "Value": "Views.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14="
+        }
+      ]
+    },
+    {
+      "Route": "Views.bundle.scp.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\v9drnnse8v-3hzxzbzs01.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001592356688"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0="
+        }
+      ]
+    },
+    {
+      "Route": "Views.bundle.scp.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\Views.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0="
+        }
+      ]
+    },
+    {
+      "Route": "Views.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\v9drnnse8v-3hzxzbzs01.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14="
+        }
+      ]
+    },
+    {
+      "Route": "Views.styles.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gdd3e1x2gx-3hzxzbzs01.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001592356688"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0="
+        }
+      ]
+    },
+    {
+      "Route": "Views.styles.css",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Views.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KY/PJk0AFnDhgoGdP16xf6NhH2dUaAeJMWaaX3pT1Q0="
+        }
+      ]
+    },
+    {
+      "Route": "Views.styles.css.gz",
+      "AssetFile": "C:\\Users\\anieves\\source\\repos\\Views\\Views\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gdd3e1x2gx-3hzxzbzs01.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 17:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-peY8xFH7R/rUkX704kH002quQ7yAFFBcFL/dBGMVk14="
+        }
+      ]
+    }
+  ]
+}

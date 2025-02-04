@@ -1,0 +1,70 @@
+﻿.irregular-shape {
+	width: 100vw;
+	height: 200px;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), #145CB3;
+	clip-path: polygon(84% 84%, 100% 65%, 100% 100%, 0% 100%);
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.bg-custom {
+	background-color: rgb(34, 150, 243) !important; /* Ajusta los valores RGB */
+}
+
+.bg-fullpage {
+	background-color: rgb(34, 150, 243);
+	min-height: 100vh; /* Asegura que cubra toda la pantalla */
+}
+.input-group .input-center-usuario {
+	background-color: transparent;
+	border-left: 0px;
+	color: #8A8D89;
+	position: center
+}
+.input-group .input-center {
+	background-color: transparent;
+	border-left: 0px;
+	border-right: 0px;
+	color: #8A8D89;
+	position: center
+}
+
+.input-group .input-in {
+	border: 0px;
+	background-color: #45D522;
+	font-size: 25px;
+	color: #333;
+}
+
+.input-group .input-button {
+	justify-content: flex-start;
+	padding-left: 20%;
+	padding-right: 20%;
+	font-weight: bold;
+	border: 0px;
+	background-color: #45D522;
+	color: black;
+}
+
+.input-group .item-group-login {
+	background-color: transparent;
+	border-right: 0px solid #ccc;
+	color: #333;
+}
+.input-group .item-group-login-left {
+	background-color: transparent;
+	border-left: 0px solid #ccc;
+	color: #333;
+}
+
+.icon-input-login {
+	font-size: 25px;
+	color: #8A8D89;
+}
+
+.icon-input-login-in {
+	font-size: 25px;
+	color: black;
+}

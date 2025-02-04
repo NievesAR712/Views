@@ -1,0 +1,43 @@
+{
+    "Logo": {
+        "src": "/img/bpark_logo1.png",
+        "class": "img-fluid w-250"
+    },
+    "Fields": [
+        {
+            "type": "text",
+            "name": "url",
+            "placeholder": "URL",
+            "iconLeft": "bi bi-database",
+            "iconRight": "bi bi-caret-right-fill",
+            "action": "IrARecuperar"
+        },
+        {
+            "type": "text",
+            "name": "usuario",
+            "placeholder": "Usuario",
+            "iconLeft": "bi bi-person",
+            "iconRight": ""
+        },
+        {
+            "type": "password",
+            "name": "contrasena",
+            "placeholder": "Contraseña",
+            "iconLeft": "bi bi-shield-lock",
+            "iconRight": "bi bi-eye-fill"
+        }
+    ],
+    "Button": {
+        "label": "Iniciar Sesión",
+        "icon": "bi bi-box-arrow-in-right",
+        "action": "IniciarSesion"
+    },
+    "Links": [
+        {
+            "label": "¿Olvidaste tu contraseña?",
+            "text": "Recuperar",
+            "route": "/recuperar"
+        }
+    ]
+}
+

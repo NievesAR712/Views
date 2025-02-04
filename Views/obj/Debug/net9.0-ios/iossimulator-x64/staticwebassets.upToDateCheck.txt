@@ -1,0 +1,13 @@
+C:\Users\anieves\source\repos\Views\Views\wwwroot\index.html
+C:\Users\anieves\source\repos\Views\Views\wwwroot\jsons\login-config.json
+C:\Users\anieves\source\repos\Views\Views\wwwroot\css\app.css
+C:\Users\anieves\source\repos\Views\Views\wwwroot\css\styles.css
+C:\Users\anieves\source\repos\Views\Views\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\anieves\source\repos\Views\Views\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\css\styles.css
+wwwroot\img\bpark_logo1.png
+wwwroot\index.html
+wwwroot\jsons\login-config.json

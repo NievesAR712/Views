@@ -1,0 +1,136 @@
+﻿@using System.Diagnostics
+@using System.Text.Json
+@inject NavigationManager navManager
+@page "/"
+
+@* Cargar los datos del JSON *@
+@if (formConfig != null)
+{
+    <div class="container-fluid align-items-center py-5 my-3">
+        <img src="@formConfig.Logo.Src" class="@formConfig.Logo.Class" />
+        <form>
+            <label class="text-muted text-left fs-4 mb-3">Ingrese los datos de acceso</label>
+
+            @foreach (var field in formConfig.Fields)
+            {
+                <div class="input-group mb-3" @onclick="() => HandleFieldAction(field)">
+                    @if (!string.IsNullOrEmpty(field.IconLeft))
+                    {
+                        <span class="input-group-text item-group-login">
+                            <i class="@field.IconLeft icon-input-login"></i>
+                        </span>
+                    }
+
+                    @if (field.Type == "text" || field.Type == "password")
+                    {
+                        <input type="@field.Type" class="form-control input-center-usuario" placeholder="@field.Placeholder" />
+                    }
+
+                    @if (!string.IsNullOrEmpty(field.IconRight))
+                    {
+                        <span class="input-group-text item-group-login-left">
+                            <i class="@field.IconRight icon-input-login"></i>
+                        </span>
+                    }
+                </div>
+            }
+
+            <div class="input-group mb-3">
+                <span class="input-group-text input-in">
+                    <i class="@formConfig.Button.Icon icon-input-login-in"></i>
+                </span>
+                <button class="btn btn-block form-control d-flex align-items-center input-button">
+                    @formConfig.Button.Label
+                </button>
+            </div>
+
+            <div class="text-center mt-5">
+                @foreach (var link in formConfig.Links)
+                {
+                    <label class="text-muted fs-6">@link.Label</label>
+                    <a href="@link.Route" class="text-decoration-none text-dark fw-bold">@link.Text</a>
+                }
+            </div>
+        </form>
+        <div class="container">
+            <div class="irregular-shape"></div>
+        </div>
+    </div>
+}
+
+@code {
+    private FormConfig? formConfig;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            using var stream = await FileSystem.OpenAppPackageFileAsync("login-config2.json");
+            using var reader = new StreamReader(stream);
+            var jsonData = await reader.ReadToEndAsync();
+            Debug.WriteLine(jsonData);
+            var options = new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                };
+
+            formConfig = JsonSerializer.Deserialize<FormConfig>(jsonData, options);
+
+            Debug.WriteLine(formConfig.Logo.Src);
+            if (formConfig == null)
+            {
+                Console.WriteLine("No se pudo deserializar el JSON.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Debug.WriteLine($"Error al cargar el JSON: {ex.Message}");
+        }
+    }
+
+    private void HandleFieldAction(Field field)
+    {
+        if (field.Action == "IrARecuperar")
+        {
+            navManager.NavigateTo("/url");
+        }
+    }
+
+    private class FormConfig
+    {
+        public LogoConfig Logo { get; set; } = new();
+        public List<Field> Fields { get; set; } = new();
+        public ButtonConfig Button { get; set; } = new();
+        public List<LinkConfig> Links { get; set; } = new();
+    }
+
+    private class LogoConfig
+    {
+        public string Src { get; set; } = "";
+        public string Class { get; set; } = "";
+    }
+
+    private class Field
+    {
+        public string Type { get; set; } = "";
+        public string Name { get; set; } = "";
+        public string Placeholder { get; set; } = "";
+        public string IconLeft { get; set; } = "";
+        public string IconRight { get; set; } = "";
+        public string Action { get; set; } = "";
+    }
+
+    private class ButtonConfig
+    {
+        public string Label { get; set; } = "";
+        public string Icon { get; set; } = "";
+        public string Action { get; set; } = "";
+    }
+
+    private class LinkConfig
+    {
+        public string Label { get; set; } = "";
+        public string Text { get; set; } = "";
+        public string Route { get; set; } = "";
+    }
+}
